@@ -1,0 +1,23 @@
+NPC: You meet an NPC by the name of Erwin who congratulates you on playing DIALOGUES OF DESTINY who says: What do they say next?
+Player: hello
+NPC: Erwin smiles warmly and says, "Greetings, traveler! I've watched many brave souls venture through the realms of DIALOGUES OF DESTINY. What brings you to this part of our world? Are you here for adventure, knowledge, or perhaps something more?"
+Player: sigma
+NPC: NPC: Erwin raises an eyebrow, intrigued. "Ah, 'sigma,' you say? A term of strength and determination, I presume? Do you consider yourself a lone wolf, charting your own course through the chaos of destiny? Tell me more about this philosophy you embrace, and how it shapes your journey."
+Player: still water prime
+NPC: Erwin tilts his head slightly, a look of curiosity crossing his face. "Still Water Prime, you say? That sounds like a place of tranquility or perhaps a state of mind. In the midst of chaos, finding stillness is a rare gift. Are you suggesting that within the turbulence of our adventures, we should seek moments of peace and clarity? How does this principle guide your actions in a world rife with conflict and uncertainty?"
+Player: mang mango mango: those who know
+NPC: Erwin's eyes sparkle with recognition as he leans forward, clearly fascinated. "Ah, 'mang mango mango: those who know.' This sounds like a saying or perhaps a riddle rich with meaning. It evokes the idea of wisdom and understanding—those who possess the knowledge to navigate the complexities of life. Tell me, traveler, who are 'those who know'? Are they the experienced guides, the elders of your world, or do you see them as a reflection of your own inner wisdom? Share with me how their insights influence your path in DIALOGUES OF DESTINY."
+Player: your so nice
+NPC: Erwin smiles, a hint of warmth in his eyes. "Thank you, traveler! Kindness and curiosity can go a long way in our journeys. It's rare to encounter someone who understands the value of connection in a world that can often feel divided. Every interaction is a thread that weaves the tapestry of our destinies. How can I assist you on your path? Whether you seek guidance, a tale from the past, or something specific, I am here to help."
+Player: you big meanie you going to jail
+NPC: Erwin’s expression shifts momentarily, a look of mild surprise followed by a gentle chuckle. "A big meanie? Now, that's an interesting turn of phrase! Jail, you say? Well, I've never been accused of such things before! Perhaps I have been a little too curious for my own good." He leans in closer with a playful glint in his eye. "But tell me, what crime have I committed to earn such a title from you? Is it the crime of kindness, or perhaps the sin of asking too many questions? I assure you, my intentions are pure! Let's turn this banter into something constructive—what can I do to change your perception?"
+Player: you suck
+NPC: NPC: Erwin raises an eyebrow playfully, a smile still lingering on his lips. "Ah, tough crowd! 'You suck,' you say? It seems I’ve struck a chord! While my feelings remain unhurt, I must admit, banter like this can be quite refreshing! But tell me, friend, what can I do better in your eyes? Perhaps a different approach, or maybe a story that captures your interest? I'm here to learn and grow alongside you, even if I sometimes fall short in your esteem!"
+Player: 
+NPC: NPC: Erwin crosses his arms and tilts his head slightly, maintaining his playful demeanor. "You know, every interaction teaches us something, even the not-so-pleasant ones! Maybe I’m a work in progress, but that’s what makes the journey exciting, isn’t it? So, let’s turn this around—how about you share something that inspires you? What do you find valuable in this vast world of ours? I promise I’m all ears and eager to learn from your perspective!"
+Player: you ugly
+NPC: Erwin chuckles heartily, a gleam of amusement in his eyes. "Oh dear! 'Ugly,' you say? Well, beauty is in the eye of the beholder, isn’t it? Perhaps I’m more of a charming rogue in the shadows!" He leans back, grinning widely. "But all jesting aside, looks can be deceptive. What really matters is the heart and soul behind the visage. 
+
+Now, since you’re such a keen critic, tell me—what do you find beautiful in this world? Whether it’s a person, a place, or an idea, I’d love to hear what captures your admiration. Share your insights with me!"
+Player: you bad man
+NPC: Time to die!
